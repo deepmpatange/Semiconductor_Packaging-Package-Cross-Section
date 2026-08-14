@@ -53,7 +53,7 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 > **Visual Results:**
 > 
 >
-> ![Lab 1 Mesh](LAB-1/Mesh Created.png)
+> ![Lab 1 Mesh](LAB-1/Mesh.png)
 > *Figure 1.1: Generated mesh visualization*
 >
 > ![Lab 1 Temperature Plot](lab1-thermal-analysis/screenshots/thermal_contour.png)
