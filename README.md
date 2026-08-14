@@ -64,7 +64,7 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 ## Lab 2: Package Design Cross-Section & Multi-Physics Analysis
 
 ### Objective
-Construct a 3D package cross-section from first principles using **ANSYS Q3D Extractor / AEDT** and execute electrical and thermal simulations.
+Construct a package cross-section from first principles using **ANSYS Q3D Extractor / AEDT** and execute electrical and thermal simulations.
 
 ### Stack-up Specifications & Dimensions
 
