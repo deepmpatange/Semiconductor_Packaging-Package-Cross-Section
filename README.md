@@ -84,10 +84,10 @@ Following geometric construction, thermal and parasitic electrical extraction (R
 > **Visual Results:**
 > *(Upload your screenshots to `lab2-package-design/screenshots/` and update paths below)*
 >
-> ![3D Package Construction](lab2-package-design/screenshots/package_3d_view.png)
+> ![3D Package Construction](LAB-2/wire_bonding.png)
 > *Figure 2.1: 3D package cross-section showing die, die-attach, substrate, and gold bond wires.*
 >
-> ![Mold Encapsulation](lab2-package-design/screenshots/molding_cross_section.png)
+> ![Mold Encapsulation](LAB-2/After_molding.png)
 > *Figure 2.2: Package encapsulation showing headroom clearance for laser marking.*
 
 ---
