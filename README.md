@@ -51,13 +51,13 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 3. **Design Validation & Solve:** Executed thermal solver in ANSYS Electronics Desktop.
 
 > **Visual Results:**
-> *(Upload your screenshots to `lab1-thermal-analysis/screenshots/` and update paths below)*
+> 
 >
-> ![Lab 1 Mesh](lab1-thermal-analysis/screenshots/mesh_quality.png)
-> *Figure 1.1: Generated mesh visualization and quality metrics.*
+> ![Lab 1 Mesh](LAB-1/Mesh Created.png)
+> *Figure 1.1: Generated mesh visualization*
 >
 > ![Lab 1 Temperature Plot](lab1-thermal-analysis/screenshots/thermal_contour.png)
-> *Figure 1.2: Temperature distribution contour plot across FC-BGA assembly.*
+> *Figure 1.2: Temperature analysis across FC-BGA assembly.*
 
 ---
 
