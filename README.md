@@ -75,7 +75,7 @@ Construct a 3D package cross-section from first principles using **ANSYS Q3D Ext
 | Layer / Component | Dimensions ($L \times W \times T$) | Material | Purpose / Notes |
 | :--- | :--- | :--- | :--- |
 | **Die** | $3.0 \text{ mm} \times 3.0 \text{ mm} \times 0.2 \text{ mm}$ ($200\space\mu\text{m}$) | Silicon ($\text{Si}$) | Active silicon die centered at origin |
-| **Substrate** | Custom footprint $\times 0.5 \text{ mm}$ thickness | `FR4_epoxy` | Core carrier PCB |
+| **Substrate** | $5.0 \text{ mm} \times 5.0 \text{ mm} \times 0.5 \text{ mm}$ thickness | `FR4_epoxy` | Core carrier PCB |
 | **Die Attach** | Scaled die interface | `modified_epoxy` | Die-to-substrate mechanical adhesive |
 | **Wire Bonding** | Standard bond wires | Gold (`Au`) | Connects die bond pads to substrate bond pads |
 | **Mold Compound** | Encapsulation $\times 1.2 \text{ mm}$ thickness | `epoxy_kelvar_XY` | Full package encapsulation |
