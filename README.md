@@ -82,7 +82,7 @@ Construct a 3D package cross-section from first principles using **ANSYS Q3D Ext
 Following geometric construction, thermal and parasitic electrical extraction (RLGC) simulations were conducted on the wire-bonded interconnects.
 
 > **Visual Results:**
-> *(Upload your screenshots to `lab2-package-design/screenshots/` and update paths below)*
+> 
 >
 > ![3D Package Construction](LAB-2/wire_bonding.png)
 > *Figure 2.1: 3D package cross-section showing die, die-attach, substrate, and gold bond wires.*
