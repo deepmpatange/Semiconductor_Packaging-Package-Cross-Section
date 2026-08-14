@@ -41,7 +41,7 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 
 ### Package Parameters & Setup
 * **Package Geometry & Die:** Import of standard FC-BGA model, die geometry configuration, and total die power dissipation setup.
-* **Substrate & Vias:** Multi-layer substrate stack-up setup with thermal vias for heat conduction paths.
+* **Substrate & Vias:** Multi-layer substrate stack-up setup with thermal vias for heat conduction paths (optional).
 * **Solder Ball Array:** Ball pitch, height, diameter configuration, and array grid assignment.
 * **Heat Sink Integration:** Optional passive/active cooling attached to the package lid.
 
