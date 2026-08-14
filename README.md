@@ -56,7 +56,7 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 > ![Lab 1 Mesh](LAB-1/Mesh_Created.png)
 > *Figure 1.1: Generated mesh visualization*
 >
-> ![Lab 1 Temperature analysis](lab1-thermal-analysis/screenshots/thermal_contour.png)
+> ![Lab 1 Temperature analysis](LAB-1/Temperature_analysis.png)
 > *Figure 1.2: Temperature analysis across FC-BGA assembly.*
 
 ---
