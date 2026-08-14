@@ -11,7 +11,7 @@ It includes theoretical insights into packaging selection, cleanroom assembly fl
 ## Table of Contents
 - [Course Overview & Theoretical Foundations](#course-overview--theoretical-foundations)
 - [Lab 1: Thermal Analysis of Flip-Chip BGA Package](#lab-1-thermal-analysis-of-flip-chip-bGA-package)
-- [Lab 2: 3D Package Design Cross-Section & Multi-Physics Analysis](#lab-2-3d-package-design-cross-section--multi-physics-analysis)
+- [Lab 2: Package Design Cross-Section & Multi-Physics Analysis](#lab-2-3d-package-design-cross-section--multi-physics-analysis)
 - [Tools Used](#tools-used)
 
 ---
@@ -61,7 +61,7 @@ Perform thermal simulation and mesh quality verification on an imported Flip-Chi
 
 ---
 
-## Lab 2: 3D Package Design Cross-Section & Multi-Physics Analysis
+## Lab 2: Package Design Cross-Section & Multi-Physics Analysis
 
 ### Objective
 Construct a 3D package cross-section from first principles using **ANSYS Q3D Extractor / AEDT** and execute electrical and thermal simulations.
